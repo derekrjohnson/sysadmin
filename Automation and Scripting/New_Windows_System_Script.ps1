@@ -1,3 +1,4 @@
+# Author: Derek Johnson Date: 1/22/2024 Version: 1.0
 # Ask for the hostname
 $HostName = Read-Host -Prompt 'Input a hostname: '
 
